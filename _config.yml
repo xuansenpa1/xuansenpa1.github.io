@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuxuan Liu"
-description              : "...."
+description              : "First Year Ph.D. Student"
 repository               : "xuansenpa1/xuansenpa1.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name             : "Yuxuan Liu"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Hong Kong University of Science and Technology"
-  location         : "Hong Kong, China"
+  location         : "Hong Kong SAR, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=6IXZ2uMAAAAJ"

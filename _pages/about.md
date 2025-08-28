@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-123456789
+Hi, I am Yuxuan Liu (刘宇轩), a PhD student at the Hong Kong University of Science and Technology (HKUST), supervised by Prof. Yangqiu Song.Prior to this, I received my B.E. degree in Artificial Intelligence at Harbin Institute of Technology in 2025.
 
 
 # 🔥 News

@@ -23,9 +23,11 @@ Hi, I am **Yuxuan Liu (刘宇轩)**, a Ph.D. student at the **Hong Kong Universi
 
 # 🔬 Research Interests
 
+I’m mainly interested in the research of Natural Language Processing.
+
 - Large Language Models
 - Agents
-- Skills
+- Harness Engineering
 
 <span class='anchor' id='news'></span>
 
@@ -71,7 +73,7 @@ Yuxuan Liu, Zhaochen Su, Lingyun Xie, Yuhao Zhang, Qing Zong, Jiahe Guo, Zhongwe
   Ph.D. student in the Department of Computer Science and Engineering, supervised by Prof. Yangqiu Song.
 
 - **Harbin Institute of Technology**
-  Bachelor's degree in the School of Future Technology; ranked 1st in Artificial Intelligence.
+  Bachelor's degree in the School of Future Technology (GPA: 92.89 / 100, Rank: 1 / 165).
 
 <span class='anchor' id='experience'></span>
 

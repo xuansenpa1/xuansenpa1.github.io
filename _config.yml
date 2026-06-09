@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuxuan Liu"
-description              : "First Year Ph.D. Student"
+description              : "Ph.D. Student in AI"
 repository               : "xuansenpa1/xuansenpa1.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yuxuan Liu"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Hong Kong University of Science and Technology"
+  bio              : "Ph.D. Student, HKUST"
   location         : "Hong Kong SAR, China"
   employer         :
   pubmed           : 

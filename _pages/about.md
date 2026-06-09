@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am **Yuxuan Liu (刘宇轩)**, a Ph.D. student at the **Hong Kong University of Science and Technology (HKUST)**, supervised by Prof. [Yangqiu Song](https://www.cse.ust.hk/~yqsong/). My research focuses on **LLM agents**, **agent skills**, and **execution-grounded learning**, especially how language agents can acquire, revise, and use procedural knowledge in verifier-driven environments.
+Hi, I am **Yuxuan Liu (刘宇轩)**, a Ph.D. student at the **Hong Kong University of Science and Technology (HKUST)**, supervised by Prof. [Yangqiu Song](https://www.cse.ust.hk/~yqsong/). My research interests include **LLMs**, **Agents**, and **Skills**, with a focus on how language agents acquire, revise, and use procedural knowledge.
 
 Before joining HKUST, I received my Bachelor's degree in Artificial Intelligence from **Harbin Institute of Technology**. I was also fortunate to intern at the **Research Center for Social Computing and Information Retrieval (SCIR)** under the guidance of Prof. [Wanxiang Che](https://ir.hit.edu.cn/~car/).
 
@@ -25,10 +25,9 @@ Before joining HKUST, I received my Bachelor's degree in Artificial Intelligence
 
 # 🔬 Research Interests
 
-- **LLM agents and tool use:** building agents that can inspect environments, call tools, validate artifacts, and recover from execution failures.
-- **Agent skills and procedural memory:** studying how reusable skills should be authored, evaluated, revised, and transferred across tasks and executors.
-- **Execution-grounded learning:** using traces, tests, verifiers, and feedback signals to improve agent behavior beyond static prompting.
-- **Benchmarking and evaluation:** designing reliable protocols for measuring agent skill use, skill revision, and leakage-resistant evaluation.
+- **LLMs:** improving the reasoning, tool-use, and self-improvement abilities of large language models.
+- **Agents:** building language agents that can act in environments, use tools, validate outcomes, and recover from failures.
+- **Skills:** studying how reusable agent skills are authored, revised, evaluated, and transferred across tasks and models.
 
 <span class='anchor' id='news'></span>
 

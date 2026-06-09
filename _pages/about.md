@@ -34,7 +34,6 @@ Before joining HKUST, I received my Bachelor's degree in Artificial Intelligence
 # 🔥 News
 
 - **Jun 2026:** Our paper **SkillRevise: Improving LLM-Authored Agent Skills via Trace-Conditioned Skill Revision** is available on arXiv. [[Paper](https://arxiv.org/abs/2606.01139)] [[Code](https://github.com/xuansenpa1/skillrevise)]
-- **2026:** I started my Ph.D. journey at HKUST.
 
 <span class='anchor' id='publications'></span>
 
@@ -48,29 +47,22 @@ Yuxuan Liu, Zhaochen Su, Lingyun Xie, Yuhao Zhang, Qing Zong, Jiahe Guo, Zhongwe
 
 [[Paper](https://arxiv.org/abs/2606.01139)] [[Code](https://github.com/xuansenpa1/skillrevise)]
 
-<span class='anchor' id='projects'></span>
-
-# 🛠 Projects
-
-**SkillRevise**
-
-An execution-grounded framework for improving cold-start LLM-authored agent skills. Starting from an initial skill, SkillRevise executes the task, diagnoses verifier-facing failures, retrieves reusable repair principles, revises the skill with execution anchors, re-executes the candidate, and keeps the best observed version under a utility gate.
-
-[[Repository](https://github.com/xuansenpa1/skillrevise)] [[arXiv](https://arxiv.org/abs/2606.01139)]
-
 <span class='anchor' id='education'></span>
 
 # 📖 Education
 
 - **Hong Kong University of Science and Technology (HKUST)**
-  Ph.D. student in Artificial Intelligence / Computer Science, supervised by Prof. Yangqiu Song.
+  Ph.D. student in the Department of Computer Science and Engineering, supervised by Prof. Yangqiu Song.
 
 - **Harbin Institute of Technology**
-  Bachelor's degree in Artificial Intelligence.
+  Bachelor's degree in the School of Future Technology; ranked 1st in Artificial Intelligence.
 
 <span class='anchor' id='experience'></span>
 
 # 💻 Experience
+
+- **Center on Machine Learning Research**
+  Research intern, advised by Prof. Wangmeng Zuo.
 
 - **Research Center for Social Computing and Information Retrieval (SCIR), Harbin Institute of Technology**
   Research intern, advised by Prof. Wanxiang Che.

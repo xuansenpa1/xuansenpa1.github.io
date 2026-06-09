@@ -17,17 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am **Yuxuan Liu (刘宇轩)**, a Ph.D. student at the **Hong Kong University of Science and Technology (HKUST)**, supervised by Prof. [Yangqiu Song](https://www.cse.ust.hk/~yqsong/). My research interests include **LLMs**, **Agents**, and **Skills**, with a focus on how language agents acquire, revise, and use procedural knowledge.
-
-Before joining HKUST, I received my Bachelor's degree in Artificial Intelligence from **Harbin Institute of Technology**. I was also fortunate to intern at the **Research Center for Social Computing and Information Retrieval (SCIR)** under the guidance of Prof. [Wanxiang Che](https://ir.hit.edu.cn/~car/).
+Hi, I am **Yuxuan Liu (刘宇轩)**, a Ph.D. student at the **Hong Kong University of Science and Technology (HKUST)**, supervised by Prof. [Yangqiu Song](https://www.cse.ust.hk/~yqsong/). Before joining HKUST, I received my Bachelor's degree in Artificial Intelligence from **Harbin Institute of Technology**. I was also fortunate to intern at the **Research Center for Social Computing and Information Retrieval (SCIR)** under the guidance of Prof. [Wanxiang Che](https://ir.hit.edu.cn/~car/).
 
 <span class='anchor' id='research'></span>
 
 # 🔬 Research Interests
 
-- **LLMs:** improving the reasoning, tool-use, and self-improvement abilities of large language models.
-- **Agents:** building language agents that can act in environments, use tools, validate outcomes, and recover from failures.
-- **Skills:** studying how reusable agent skills are authored, revised, evaluated, and transferred across tasks and models.
+- Large Language Models
+- Agents
+- Skills
 
 <span class='anchor' id='news'></span>
 
@@ -46,6 +44,24 @@ Yuxuan Liu, Zhaochen Su, Lingyun Xie, Yuhao Zhang, Qing Zong, Jiahe Guo, Zhongwe
 *arXiv preprint*, 2026
 
 [[Paper](https://arxiv.org/abs/2606.01139)] [[Code](https://github.com/xuansenpa1/skillrevise)]
+
+<span class='anchor' id='awards'></span>
+
+# 🏆 Honors & Awards
+
+- **2025.08** RedBird PhD Award Program
+- **2024.06** Top Ten Academic Tutoring Volunteers at Harbin Institute of Technology (Ranked 1st)
+- **2024.05** Meritorious Winner, Interdisciplinary Contest in Modeling
+- **2024.03** Song Qingling Future Scholarship
+- **2023.12** Shenzhen Stock Exchange Scholarship
+- **2023.11** First Prize, China Undergraduate Mathematical Contest in Modeling
+- **2023.10** Outstanding Student in Heilongjiang Province
+- **2023.10** Outstanding Student Model at Harbin Institute of Technology
+- **2022.10** National Scholarship (Ranked 1st)
+- **2022.07** First Prize, National University Students' Opt-Sci-Tech Competition
+- **2022.05** Top Ten Learning Stars of the Fundamental Division at Harbin Institute of Technology
+- **Multiple** The Chinese Mathematics Competitions (Second in the same graduating class at HIT)
+- **Multiple** First-class People's Scholarship in China * 6 (Top 3%)
 
 <span class='anchor' id='education'></span>
 

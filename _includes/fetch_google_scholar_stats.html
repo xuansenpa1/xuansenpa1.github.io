@@ -5,15 +5,74 @@
         {% else %}
         var gsDataBaseUrl = 'https://raw.githubusercontent.com/{{ site.repository }}/'
         {% endif %}
-        $.getJSON(gsDataBaseUrl + "google-scholar-stats/gs_data.json", function (data) {
-            var totalCitation = data['citedby']
-            document.getElementById('total_cit').innerHTML = totalCitation;
-            var citationEles = document.getElementsByClassName('show_paper_citations')
-            Array.prototype.forEach.call(citationEles, element => {
-                var paperId = element.getAttribute('data')
-                var numCitations = data['publications'][paperId]['num_citations']
-                element.innerHTML = '| Citations: ' + numCitations;
+
+        $.getJSON(gsDataBaseUrl + "google-scholar-stats/gs_data.json")
+            .done(function (data) {
+                var totalCitationElement = document.getElementById('total_cit');
+                if (totalCitationElement && data['citedby'] !== undefined) {
+                    totalCitationElement.textContent = data['citedby'];
+                }
+                var citationEles = document.getElementsByClassName('show_paper_citations');
+                Array.prototype.forEach.call(citationEles, function (element) {
+                    var paperId = element.getAttribute('data');
+                    var publication = data['publications'] && data['publications'][paperId];
+                    if (publication && publication['num_citations'] !== undefined) {
+                        element.textContent = '| Citations: ' + publication['num_citations'];
+                    }
+                });
             });
-        });
-    })
+
+        $.getJSON(gsDataBaseUrl + "google-scholar-stats/gs_publications.json")
+            .done(function (data) {
+                var container = document.getElementById('google-scholar-publications');
+                var publications = data && data['publications'];
+                if (!container || !Array.isArray(publications) || publications.length === 0) {
+                    return;
+                }
+
+                var fragment = document.createDocumentFragment();
+                publications.forEach(function (publication) {
+                    var entry = document.createElement('div');
+                    entry.className = 'google-scholar-publication';
+
+                    var title = document.createElement('strong');
+                    var titleLink = document.createElement('a');
+                    titleLink.textContent = publication.title || 'Untitled publication';
+                    titleLink.href = publication.url || publication.scholar_url;
+                    titleLink.target = '_blank';
+                    titleLink.rel = 'noopener noreferrer';
+                    title.appendChild(titleLink);
+                    entry.appendChild(title);
+
+                    if (publication.authors) {
+                        var authors = document.createElement('p');
+                        authors.textContent = publication.authors;
+                        entry.appendChild(authors);
+                    }
+
+                    var metadata = [publication.venue, publication.year].filter(Boolean).join(', ');
+                    if (metadata) {
+                        var venue = document.createElement('p');
+                        var emphasizedVenue = document.createElement('em');
+                        emphasizedVenue.textContent = metadata;
+                        venue.appendChild(emphasizedVenue);
+                        entry.appendChild(venue);
+                    }
+
+                    var links = document.createElement('p');
+                    var scholarLink = document.createElement('a');
+                    scholarLink.href = publication.scholar_url;
+                    scholarLink.target = '_blank';
+                    scholarLink.rel = 'noopener noreferrer';
+                    scholarLink.textContent = '[Google Scholar]';
+                    links.appendChild(scholarLink);
+                    if (publication.citations !== undefined && publication.citations !== null) {
+                        links.appendChild(document.createTextNode(' | Citations: ' + publication.citations));
+                    }
+                    entry.appendChild(links);
+                    fragment.appendChild(entry);
+                });
+                container.replaceChildren(fragment);
+            });
+    });
 </script>

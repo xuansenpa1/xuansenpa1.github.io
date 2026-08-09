@@ -44,14 +44,14 @@ I’m mainly interested in the research of Natural Language Processing.
     <strong>MultivationBench: A Benchmark for Multimodal Sequential Motivation Reasoning</strong>
     <p>Kawai Chung, Chunkit Chan, Yauwai Yim, Yuxuan Liu, Haochen Shi, Weiqi Wang, Qing Zong, Tianshi Zheng, Yixuan Fu, Kai Chung Wong, Hao Liang, Yifan Gao, Xi Yang, Janet Hui-wen Hsiao, Yangqiu Song</p>
     <p><em>arXiv preprint, 2026</em></p>
-    <p>[[Paper](https://arxiv.org/abs/2607.26465)] [[Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6IXZ2uMAAAAJ&citation_for_view=6IXZ2uMAAAAJ:9yKSN-GCB0IC)]</p>
+    <p><a href="https://arxiv.org/abs/2607.26465">[Paper]</a> <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=6IXZ2uMAAAAJ&amp;citation_for_view=6IXZ2uMAAAAJ:9yKSN-GCB0IC">[Google Scholar]</a></p>
   </div>
 
   <div class="google-scholar-publication">
     <strong>SkillRevise: Improving LLM-Authored Agent Skills via Trace-Conditioned Skill Revision</strong>
     <p>Yuxuan Liu, Zhaochen Su, Lingyun Xie, Yuhao Zhang, Qing Zong, Jiahe Guo, Zhongwei Xie, Yiyan Ji, Yauwai Yim, Hongyu Luo, Xiyu Ren, Chenyu Ruan, Haoran Li, Yangqiu Song</p>
     <p><em>arXiv preprint, 2026</em></p>
-    <p>[[Paper](https://arxiv.org/abs/2606.01139)] [[Code](https://github.com/xuansenpa1/skillrevise)]</p>
+    <p><a href="https://arxiv.org/abs/2606.01139">[Paper]</a> <a href="https://github.com/xuansenpa1/skillrevise">[Code]</a></p>
   </div>
 </div>
 

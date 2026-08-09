@@ -24,7 +24,7 @@ Some examples:
 - [Personal Homepage of the author](https://rayeren.github.io/)
 
 ## Key Features
-- **Automatically sync Google Scholar publications and citations**: the crawler publishes a read-only publication feed and GitHub Actions refreshes it every Monday. The homepage keeps its current publication list if a Scholar request fails.
+- **Automatically sync Google Scholar citation counts**: publication and news entries keep their curated homepage formatting, while citation counts are refreshed from Google Scholar data.
 - **Support Google analytics**: you can trace the traffics of your homepage by easy configuration.
 - **Responsive**: this homepage automatically adjust for different screen sizes and viewports.
 - **Beautiful and Simple Design**: this homepage is beautiful and simple, which is very suitable for academic personal homepage.

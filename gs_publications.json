@@ -1,0 +1,45 @@
+{
+  "updated": "2026-08-09T12:10:28.026579+00:00",
+  "publications": [
+    {
+      "id": "6IXZ2uMAAAAJ:d1gkVwhDpl0C",
+      "title": "SkillRevise: Improving LLM-Authored Agent Skills via Trace-Conditioned Skill Revision",
+      "authors": "Y Liu, Z Su, L Xie, Y Zhang, Q Zong, J Guo, Z Xie, Y Ji, Y Yim, H Luo, ...",
+      "venue": "arXiv preprint arXiv:2606.01139 , 2026",
+      "year": "2026",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6IXZ2uMAAAAJ&pagesize=100&citation_for_view=6IXZ2uMAAAAJ:d1gkVwhDpl0C",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6IXZ2uMAAAAJ&citation_for_view=6IXZ2uMAAAAJ%3Ad1gkVwhDpl0C",
+      "citations": 2
+    },
+    {
+      "id": "6IXZ2uMAAAAJ:2osOgNQ5qMEC",
+      "title": "Rethinking Self-Evolving Agent Skills: Feedback Dynamics over Multiple Rounds",
+      "authors": "Y Liu, Z Su, Y Zhang, J Guo, Z Xie, H Jing, L Xie, Q Zong, Y Yim, Z Zhang, ...",
+      "venue": "arXiv preprint arXiv:2608.02636 , 2026",
+      "year": "2026",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6IXZ2uMAAAAJ&pagesize=100&citation_for_view=6IXZ2uMAAAAJ:2osOgNQ5qMEC",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6IXZ2uMAAAAJ&citation_for_view=6IXZ2uMAAAAJ%3A2osOgNQ5qMEC",
+      "citations": 0
+    },
+    {
+      "id": "6IXZ2uMAAAAJ:9yKSN-GCB0IC",
+      "title": "MultivationBench: A Benchmark for Multimodal Sequential Motivation Reasoning",
+      "authors": "K Chung, C Chan, Y Yim, Y Liu, H Shi, W Wang, Q Zong, T Zheng, Y Fu, ...",
+      "venue": "arXiv preprint arXiv:2607.26465 , 2026",
+      "year": "2026",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6IXZ2uMAAAAJ&pagesize=100&citation_for_view=6IXZ2uMAAAAJ:9yKSN-GCB0IC",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6IXZ2uMAAAAJ&citation_for_view=6IXZ2uMAAAAJ%3A9yKSN-GCB0IC",
+      "citations": 0
+    },
+    {
+      "id": "6IXZ2uMAAAAJ:u-x6o8ySG0sC",
+      "title": "Exploring ConceptNet Knowledge for Enhancing LLMs Performance in Argument Impact Classification Tasks",
+      "authors": "Y Liu",
+      "venue": "International Conference on Machine Learning and Computing, 379-395 , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6IXZ2uMAAAAJ&pagesize=100&citation_for_view=6IXZ2uMAAAAJ:u-x6o8ySG0sC",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6IXZ2uMAAAAJ&citation_for_view=6IXZ2uMAAAAJ%3Au-x6o8ySG0sC",
+      "citations": 1
+    }
+  ]
+}

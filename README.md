@@ -24,7 +24,7 @@ Some examples:
 - [Personal Homepage of the author](https://rayeren.github.io/)
 
 ## Key Features
-- **Automatically sync Google Scholar citation counts**: publication and news entries keep their curated homepage formatting, while citation counts are refreshed from Google Scholar data.
+- **Curated publication and news layout**: publication and news entries keep their hand-written homepage formatting without per-paper citation suffixes.
 - **Support Google analytics**: you can trace the traffics of your homepage by easy configuration.
 - **Responsive**: this homepage automatically adjust for different screen sizes and viewports.
 - **Beautiful and Simple Design**: this homepage is beautiful and simple, which is very suitable for academic personal homepage.
@@ -48,12 +48,6 @@ Some examples:
     1. More configuration details are described in the comments.
 1. Add your homepage content in `_pages/about.md`.
     1. You can use html+markdown syntax just same as jekyll.
-    1. You can use a `<span>` tag with class `show_paper_citations` and attribute `data` to display the citations of your paper. Set the data to the google scholar paper ID. For
-        ```html
-        <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span>
-        ``` 
-        > Q: How to get the google scholar paper ID?   
-        > A: Enter your google scholar homepage and click the paper name. Then you can see the paper ID from `citation_for_view=XXXX`, where `XXXX` is the required paper ID.
 1. Your page will be published at `https://USERNAME.github.io`.
 
 ## Debug Locally

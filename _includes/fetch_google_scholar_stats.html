@@ -12,14 +12,6 @@
                 if (totalCitationElement && data['citedby'] !== undefined) {
                     totalCitationElement.textContent = data['citedby'];
                 }
-                var citationEles = document.getElementsByClassName('show_paper_citations');
-                Array.prototype.forEach.call(citationEles, function (element) {
-                    var paperId = element.getAttribute('data');
-                    var publication = data['publications'] && data['publications'][paperId];
-                    if (publication && publication['num_citations'] !== undefined) {
-                        element.textContent = '| Citations: ' + publication['num_citations'];
-                    }
-                });
             });
 
     });

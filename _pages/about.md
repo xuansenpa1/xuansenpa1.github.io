@@ -33,7 +33,10 @@ I’m mainly interested in the research of Natural Language Processing.
 
 # 🔥 News
 
+- **Aug 2026:** Our paper **Co-Evolution in Agentic Systems: Toward Self-Directed Evolution Beyond Human Design** is available on arXiv. [[Paper](https://arxiv.org/abs/2608.10299)]
+- **Aug 2026:** Our paper **Can Language Models Imagine Without Seeing? Ekphrasis: Measuring Visual Creative Ideation in Text-Only LLMs** is available on arXiv. [[Paper](https://arxiv.org/abs/2608.06967)]
 - **Aug 2026:** Our paper **Rethinking Self-Evolving Agent Skills: Feedback Dynamics over Multiple Rounds** is available on arXiv. [[Paper](https://arxiv.org/abs/2608.02636)] [[Code](https://github.com/HKUST-KnowComp/rethinkskill)]
+- **Jul 2026:** Our paper **RLPF: Reinforcement Learning from Performance Feedback for Code Generation** is available on arXiv. [[Paper](https://arxiv.org/abs/2607.27271)]
 - **Jul 2026:** Our paper **MultivationBench: A Benchmark for Multimodal Sequential Motivation Reasoning** is available on arXiv. [[Paper](https://arxiv.org/abs/2607.26465)]
 - **Jun 2026:** Our paper **SkillRevise: Improving LLM-Authored Agent Skills via Trace-Conditioned Skill Revision** is available on arXiv. [[Paper](https://arxiv.org/abs/2606.01139)] [[Code](https://github.com/xuansenpa1/skillrevise)]
 
@@ -43,10 +46,31 @@ I’m mainly interested in the research of Natural Language Processing.
 
 <div id="google-scholar-publications">
   <div class="google-scholar-publication">
+    <strong>Co-Evolution in Agentic Systems: Toward Self-Directed Evolution Beyond Human Design</strong>
+    <p>Qing Zong, Jiayu Liu, Junhao Shen, Zecong Tang, Linsi Wu, Yuxuan Liu, Rui Wang, Zhaowei Wang, Weiqi Wang, Cheng Qian, Xiusi Chen, Yangqiu Song</p>
+    <p><em>arXiv preprint, 2026</em></p>
+    <p><a href="https://arxiv.org/abs/2608.10299">[Paper]</a> <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=6IXZ2uMAAAAJ&amp;citation_for_view=6IXZ2uMAAAAJ:qjMakFHDy7sC">[Google Scholar]</a></p>
+  </div>
+
+  <div class="google-scholar-publication">
+    <strong>Can Language Models Imagine Without Seeing? Ekphrasis: Measuring Visual Creative Ideation in Text-Only LLMs</strong>
+    <p>Hongyu Luo, He Wang, Huihao Jing, Hong Ting Tsang, Yuxuan Liu, Wuganjing Song, Yauwai Yim, Chunyang Li, Yangqiu Song</p>
+    <p><em>arXiv preprint, 2026</em></p>
+    <p><a href="https://arxiv.org/abs/2608.06967">[Paper]</a> <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=6IXZ2uMAAAAJ&amp;citation_for_view=6IXZ2uMAAAAJ:UeHWp8X0CEIC">[Google Scholar]</a></p>
+  </div>
+
+  <div class="google-scholar-publication">
     <strong>Rethinking Self-Evolving Agent Skills: Feedback Dynamics over Multiple Rounds</strong>
     <p>Yuxuan Liu, Zhaochen Su, Yuhao Zhang, Jiahe Guo, Zhongwei Xie, Huihao Jing, Lingyun Xie, Qing Zong, Yauwai Yim, Zhixiong Zhang, Haoran Li, Yangqiu Song</p>
     <p><em>arXiv preprint, 2026</em></p>
     <p><a href="https://arxiv.org/abs/2608.02636">[Paper]</a> <a href="https://github.com/HKUST-KnowComp/rethinkskill">[Code]</a></p>
+  </div>
+
+  <div class="google-scholar-publication">
+    <strong>RLPF: Reinforcement Learning from Performance Feedback for Code Generation</strong>
+    <p>Huihao Jing, Haozhe Cui, Wenbin Hu, Shaojin Chen, Haochen Shi, Changxuan Fan, Yuxuan Liu, Hanyu Yang, Sirui Zhang, Ziyi Chen, Haoran Li, Yangqiu Song</p>
+    <p><em>arXiv preprint, 2026</em></p>
+    <p><a href="https://arxiv.org/abs/2607.27271">[Paper]</a> <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=6IXZ2uMAAAAJ&amp;citation_for_view=6IXZ2uMAAAAJ:IjCSPb-OGe4C">[Google Scholar]</a></p>
   </div>
 
   <div class="google-scholar-publication">

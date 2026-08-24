@@ -34,12 +34,11 @@ I’m mainly interested in the research of Natural Language Processing.
 # 🔥 News
 
 - **Aug 2026:** Our paper **SkillRevise: Improving LLM-Authored Agent Skills via Trace-Conditioned Skill Revision** has been accepted to **Findings of EMNLP 2026**. [[Paper](https://arxiv.org/abs/2606.01139)] [[Code](https://github.com/xuansenpa1/skillrevise)]
+- **Aug 2026:** Our paper **MultivationBench: A Benchmark for Multimodal Sequential Motivation Reasoning** has been accepted to **Findings of EMNLP 2026**. [[Paper](https://arxiv.org/abs/2607.26465)]
 - **Aug 2026:** Our paper **Co-Evolution in Agentic Systems: Toward Self-Directed Evolution Beyond Human Design** is available on arXiv. [[Paper](https://arxiv.org/abs/2608.10299)]
 - **Aug 2026:** Our paper **Can Language Models Imagine Without Seeing? Ekphrasis: Measuring Visual Creative Ideation in Text-Only LLMs** is available on arXiv. [[Paper](https://arxiv.org/abs/2608.06967)]
 - **Aug 2026:** Our paper **Rethinking Self-Evolving Agent Skills: Feedback Dynamics over Multiple Rounds** is available on arXiv. [[Paper](https://arxiv.org/abs/2608.02636)] [[Code](https://github.com/HKUST-KnowComp/rethinkskill)]
 - **Jul 2026:** Our paper **RLPF: Reinforcement Learning from Performance Feedback for Code Generation** is available on arXiv. [[Paper](https://arxiv.org/abs/2607.27271)]
-- **Jul 2026:** Our paper **MultivationBench: A Benchmark for Multimodal Sequential Motivation Reasoning** is available on arXiv. [[Paper](https://arxiv.org/abs/2607.26465)]
-- **Jun 2026:** Our paper **SkillRevise: Improving LLM-Authored Agent Skills via Trace-Conditioned Skill Revision** is available on arXiv. [[Paper](https://arxiv.org/abs/2606.01139)] [[Code](https://github.com/xuansenpa1/skillrevise)]
 
 <span class='anchor' id='publications'></span>
 
@@ -77,7 +76,7 @@ I’m mainly interested in the research of Natural Language Processing.
   <div class="google-scholar-publication">
     <strong>MultivationBench: A Benchmark for Multimodal Sequential Motivation Reasoning</strong>
     <p>Kawai Chung, Chunkit Chan, Yauwai Yim, Yuxuan Liu, Haochen Shi, Weiqi Wang, Qing Zong, Tianshi Zheng, Yixuan Fu, Kai Chung Wong, Hao Liang, Yifan Gao, Xi Yang, Janet Hui-wen Hsiao, Yangqiu Song</p>
-    <p><em>arXiv preprint, 2026</em></p>
+    <p><em>Findings of EMNLP, 2026</em></p>
     <p><a href="https://arxiv.org/abs/2607.26465">[Paper]</a> <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=6IXZ2uMAAAAJ&amp;citation_for_view=6IXZ2uMAAAAJ:9yKSN-GCB0IC">[Google Scholar]</a></p>
   </div>
 

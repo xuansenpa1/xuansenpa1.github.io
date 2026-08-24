@@ -26,13 +26,14 @@ Hi, I am **Yuxuan Liu (刘宇轩)**, a Ph.D. student at the **Hong Kong Universi
 I’m mainly interested in the research of Natural Language Processing.
 
 - Large Language Models
-- Agents
+- RSI
 - Harness Engineering
 
 <span class='anchor' id='news'></span>
 
 # 🔥 News
 
+- **Aug 2026:** Our paper **SkillRevise: Improving LLM-Authored Agent Skills via Trace-Conditioned Skill Revision** has been accepted to **Findings of EMNLP 2026**. [[Paper](https://arxiv.org/abs/2606.01139)] [[Code](https://github.com/xuansenpa1/skillrevise)]
 - **Aug 2026:** Our paper **Co-Evolution in Agentic Systems: Toward Self-Directed Evolution Beyond Human Design** is available on arXiv. [[Paper](https://arxiv.org/abs/2608.10299)]
 - **Aug 2026:** Our paper **Can Language Models Imagine Without Seeing? Ekphrasis: Measuring Visual Creative Ideation in Text-Only LLMs** is available on arXiv. [[Paper](https://arxiv.org/abs/2608.06967)]
 - **Aug 2026:** Our paper **Rethinking Self-Evolving Agent Skills: Feedback Dynamics over Multiple Rounds** is available on arXiv. [[Paper](https://arxiv.org/abs/2608.02636)] [[Code](https://github.com/HKUST-KnowComp/rethinkskill)]

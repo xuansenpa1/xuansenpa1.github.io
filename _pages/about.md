@@ -57,42 +57,42 @@ I’m mainly interested in the research of Natural Language Processing.
 <div id="google-scholar-publications">
   <div class="google-scholar-publication">
     <strong>Co-Evolution in Agentic Systems: Toward Self-Directed Evolution Beyond Human Design</strong>
-    <p>Qing Zong, Jiayu Liu, Junhao Shen, Zecong Tang, Linsi Wu, <strong>Yuxuan Liu</strong>, Rui Wang, Zhaowei Wang, Weiqi Wang, Cheng Qian, Xiusi Chen, Yangqiu Song</p>
+    <p>Qing Zong, Jiayu Liu, Junhao Shen, Zecong Tang, Linsi Wu, <strong><u>Yuxuan Liu</u></strong>, Rui Wang, Zhaowei Wang, Weiqi Wang, Cheng Qian, Xiusi Chen, Yangqiu Song</p>
     <p><em>arXiv preprint, 2026</em></p>
     <p><a href="https://arxiv.org/abs/2608.10299">[Paper]</a> <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=6IXZ2uMAAAAJ&amp;citation_for_view=6IXZ2uMAAAAJ:qjMakFHDy7sC">[Google Scholar]</a></p>
   </div>
 
   <div class="google-scholar-publication">
     <strong>Can Language Models Imagine Without Seeing? Ekphrasis: Measuring Visual Creative Ideation in Text-Only LLMs</strong>
-    <p>Hongyu Luo, He Wang, Huihao Jing, Hong Ting Tsang, <strong>Yuxuan Liu</strong>, Wuganjing Song, Yauwai Yim, Chunyang Li, Yangqiu Song</p>
+    <p>Hongyu Luo, He Wang, Huihao Jing, Hong Ting Tsang, <strong><u>Yuxuan Liu</u></strong>, Wuganjing Song, Yauwai Yim, Chunyang Li, Yangqiu Song</p>
     <p><em>arXiv preprint, 2026</em></p>
     <p><a href="https://arxiv.org/abs/2608.06967">[Paper]</a> <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=6IXZ2uMAAAAJ&amp;citation_for_view=6IXZ2uMAAAAJ:UeHWp8X0CEIC">[Google Scholar]</a></p>
   </div>
 
   <div class="google-scholar-publication">
     <strong>Rethinking Self-Evolving Agent Skills: Feedback Dynamics over Multiple Rounds</strong>
-    <p><strong>Yuxuan Liu</strong>, Zhaochen Su, Yuhao Zhang, Jiahe Guo, Zhongwei Xie, Huihao Jing, Lingyun Xie, Qing Zong, Yauwai Yim, Zhixiong Zhang, Haoran Li, Yangqiu Song</p>
+    <p><strong><u>Yuxuan Liu</u></strong>, Zhaochen Su, Yuhao Zhang, Jiahe Guo, Zhongwei Xie, Huihao Jing, Lingyun Xie, Qing Zong, Yauwai Yim, Zhixiong Zhang, Haoran Li, Yangqiu Song</p>
     <p><em>arXiv preprint, 2026</em></p>
     <p><a href="https://arxiv.org/abs/2608.02636">[Paper]</a> <a href="https://github.com/HKUST-KnowComp/rethinkskill">[Code]</a></p>
   </div>
 
   <div class="google-scholar-publication">
     <strong>RLPF: Reinforcement Learning from Performance Feedback for Code Generation</strong>
-    <p>Huihao Jing, Haozhe Cui, Wenbin Hu, Shaojin Chen, Haochen Shi, Changxuan Fan, <strong>Yuxuan Liu</strong>, Hanyu Yang, Sirui Zhang, Ziyi Chen, Haoran Li, Yangqiu Song</p>
+    <p>Huihao Jing, Haozhe Cui, Wenbin Hu, Shaojin Chen, Haochen Shi, Changxuan Fan, <strong><u>Yuxuan Liu</u></strong>, Hanyu Yang, Sirui Zhang, Ziyi Chen, Haoran Li, Yangqiu Song</p>
     <p><em>arXiv preprint, 2026</em></p>
     <p><a href="https://arxiv.org/abs/2607.27271">[Paper]</a> <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=6IXZ2uMAAAAJ&amp;citation_for_view=6IXZ2uMAAAAJ:IjCSPb-OGe4C">[Google Scholar]</a></p>
   </div>
 
   <div class="google-scholar-publication">
     <strong>MultivationBench: A Benchmark for Multimodal Sequential Motivation Reasoning</strong>
-    <p>Kawai Chung, Chunkit Chan, Yauwai Yim, <strong>Yuxuan Liu</strong>, Haochen Shi, Weiqi Wang, Qing Zong, Tianshi Zheng, Yixuan Fu, Kai Chung Wong, Hao Liang, Yifan Gao, Xi Yang, Janet Hui-wen Hsiao, Yangqiu Song</p>
+    <p>Kawai Chung, Chunkit Chan, Yauwai Yim, <strong><u>Yuxuan Liu</u></strong>, Haochen Shi, Weiqi Wang, Qing Zong, Tianshi Zheng, Yixuan Fu, Kai Chung Wong, Hao Liang, Yifan Gao, Xi Yang, Janet Hui-wen Hsiao, Yangqiu Song</p>
     <p><em>Findings of EMNLP, 2026</em></p>
     <p><a href="https://arxiv.org/abs/2607.26465">[Paper]</a> <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=6IXZ2uMAAAAJ&amp;citation_for_view=6IXZ2uMAAAAJ:9yKSN-GCB0IC">[Google Scholar]</a></p>
   </div>
 
   <div class="google-scholar-publication">
     <strong>SkillRevise: Improving LLM-Authored Agent Skills via Trace-Conditioned Skill Revision</strong>
-    <p><strong>Yuxuan Liu</strong>, Zhaochen Su, Lingyun Xie, Yuhao Zhang, Qing Zong, Jiahe Guo, Zhongwei Xie, Yiyan Ji, Yauwai Yim, Hongyu Luo, Xiyu Ren, Chenyu Ruan, Haoran Li, Yangqiu Song</p>
+    <p><strong><u>Yuxuan Liu</u></strong>, Zhaochen Su, Lingyun Xie, Yuhao Zhang, Qing Zong, Jiahe Guo, Zhongwei Xie, Yiyan Ji, Yauwai Yim, Hongyu Luo, Xiyu Ren, Chenyu Ruan, Haoran Li, Yangqiu Song</p>
     <p><em>Findings of EMNLP, 2026</em></p>
     <p><a href="https://arxiv.org/abs/2606.01139">[Paper]</a> <a href="https://github.com/xuansenpa1/skillrevise">[Code]</a></p>
   </div>

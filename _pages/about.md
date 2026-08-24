@@ -84,7 +84,7 @@ I’m mainly interested in the research of Natural Language Processing.
   <div class="google-scholar-publication">
     <strong>SkillRevise: Improving LLM-Authored Agent Skills via Trace-Conditioned Skill Revision</strong>
     <p>Yuxuan Liu, Zhaochen Su, Lingyun Xie, Yuhao Zhang, Qing Zong, Jiahe Guo, Zhongwei Xie, Yiyan Ji, Yauwai Yim, Hongyu Luo, Xiyu Ren, Chenyu Ruan, Haoran Li, Yangqiu Song</p>
-    <p><em>arXiv preprint, 2026</em></p>
+    <p><em>Findings of EMNLP, 2026</em></p>
     <p><a href="https://arxiv.org/abs/2606.01139">[Paper]</a> <a href="https://github.com/xuansenpa1/skillrevise">[Code]</a></p>
   </div>
 </div>

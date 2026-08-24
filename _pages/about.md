@@ -19,6 +19,16 @@ redirect_from:
 
 Hi, I am **Yuxuan Liu (刘宇轩)**, a Ph.D. student at the **Hong Kong University of Science and Technology (HKUST)**, supervised by Prof. [Yangqiu Song](https://www.cse.ust.hk/~yqsong/). Before joining HKUST, I received my Bachelor's degree in Artificial Intelligence from **Harbin Institute of Technology**. I was also fortunate to intern at the **Research Center for Social Computing and Information Retrieval (SCIR)** under the guidance of Prof. [Wanxiang Che](https://ir.hit.edu.cn/~car/).
 
+<span class='anchor' id='education'></span>
+
+# 📖 Education
+
+- **Hong Kong University of Science and Technology (HKUST)**
+  Ph.D. student in the Department of Computer Science and Engineering, supervised by Prof. Yangqiu Song.
+
+- **Harbin Institute of Technology**
+  Bachelor's degree in the School of Future Technology (GPA: 92.89 / 100, Rank: 1 / 165).
+
 <span class='anchor' id='research'></span>
 
 # 🔬 Research Interests
@@ -105,16 +115,6 @@ I’m mainly interested in the research of Natural Language Processing.
 - **2022.05** Top Ten Learning Stars of the Fundamental Division at Harbin Institute of Technology
 - **Multiple** The Chinese Mathematics Competitions (Second in the same graduating class at HIT)
 - **Multiple** First-class People's Scholarship in China * 6 (Top 3%)
-
-<span class='anchor' id='education'></span>
-
-# 📖 Education
-
-- **Hong Kong University of Science and Technology (HKUST)**
-  Ph.D. student in the Department of Computer Science and Engineering, supervised by Prof. Yangqiu Song.
-
-- **Harbin Institute of Technology**
-  Bachelor's degree in the School of Future Technology (GPA: 92.89 / 100, Rank: 1 / 165).
 
 <span class='anchor' id='experience'></span>
 

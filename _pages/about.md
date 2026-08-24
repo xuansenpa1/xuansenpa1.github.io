@@ -26,7 +26,7 @@ Hi, I am **Yuxuan Liu (刘宇轩)**, a Ph.D. student at the **Hong Kong Universi
 I’m mainly interested in the research of Natural Language Processing.
 
 - Large Language Models
-- RSI
+- Recursive Self-Improvement
 - Harness Engineering
 
 <span class='anchor' id='news'></span>

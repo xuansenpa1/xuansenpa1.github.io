@@ -40,6 +40,45 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+.homepage-more {
+    margin: 0 0 1.5em;
+
+    > summary {
+        width: fit-content;
+        padding: 0.35em 0;
+        color: $link-color;
+        font-weight: 600;
+        cursor: pointer;
+
+        &:hover {
+            text-decoration: underline;
+        }
+
+        &:focus-visible {
+            outline: 2px solid currentColor;
+            outline-offset: 4px;
+        }
+    }
+
+    .when-expanded {
+        display: none;
+    }
+
+    &[open] {
+        > summary {
+            margin-bottom: 1em;
+        }
+
+        .when-collapsed {
+            display: none;
+        }
+
+        .when-expanded {
+            display: inline;
+        }
+    }
+}
+
 .paper-box {
     display: flex;
     justify-content: left;

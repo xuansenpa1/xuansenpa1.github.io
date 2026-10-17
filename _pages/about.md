@@ -48,6 +48,10 @@ I’m mainly interested in the research of Natural Language Processing.
 - **Oct 2026:** Our paper **Jev-Guard: Fast Routing and Auditing Agent Actions over Editable Policy Trees** is available on arXiv. [[Paper](https://arxiv.org/abs/2610.18326)]
 - **Oct 2026:** Our paper **RadixFlow: Filling Execution Bubbles in Prefix-Cached Hybrid LLM Serving** is available on arXiv. [[Paper](https://arxiv.org/abs/2610.18143)]
 - **Oct 2026:** Our paper **Same Operation, Different Permission: Evaluating Whether Guardrails Honor Authorization** is available on arXiv. [[Paper](https://arxiv.org/abs/2610.16838)]
+
+<details class="homepage-more" markdown="1">
+<summary><span class="when-collapsed">Show more news</span><span class="when-expanded">Show less news</span></summary>
+
 - **Oct 2026:** Our paper **SkillHorizon: Constructing Long-Horizon Agent Tasks through Skill Composition** is available on arXiv. [[Paper](https://arxiv.org/abs/2610.14966)]
 - **Oct 2026:** Our paper **You Changed Your Mind, The Model Didn't: Demystifying Intent in Multi-Turn Dialogue** is available on arXiv. [[Paper](https://arxiv.org/abs/2610.06496)]
 - **Oct 2026:** Our paper **SkillScriptBench: Benchmarking Self-Evolution of Executable Agent Skill Packages Beyond Markdown** is available on arXiv. [[Paper](https://arxiv.org/abs/2610.04008)]
@@ -59,6 +63,8 @@ I’m mainly interested in the research of Natural Language Processing.
 - **Aug 2026:** Our paper **Can Language Models Imagine Without Seeing? Ekphrasis: Measuring Visual Creative Ideation in Text-Only LLMs** is available on arXiv. [[Paper](https://arxiv.org/abs/2608.06967)]
 - **Aug 2026:** Our paper **Rethinking Self-Evolving Agent Skills: Feedback Dynamics over Multiple Rounds** is available on arXiv. [[Paper](https://arxiv.org/abs/2608.02636)] [[Code](https://github.com/HKUST-KnowComp/rethinkskill)]
 - **Jul 2026:** Our paper **RLPF: Reinforcement Learning from Performance Feedback for Code Generation** is available on arXiv. [[Paper](https://arxiv.org/abs/2607.27271)]
+
+</details>
 
 <span class='anchor' id='publications'></span>
 
@@ -117,6 +123,9 @@ I’m mainly interested in the research of Natural Language Processing.
     <p><em>arXiv preprint, 2026</em></p>
     <p><a href="https://arxiv.org/abs/2610.18326">[Paper]</a></p>
   </div>
+
+  <details class="homepage-more">
+    <summary><span class="when-collapsed">Show more publications</span><span class="when-expanded">Show fewer publications</span></summary>
 
   <div class="google-scholar-publication">
     <strong>RadixFlow: Filling Execution Bubbles in Prefix-Cached Hybrid LLM Serving</strong>
@@ -181,6 +190,7 @@ I’m mainly interested in the research of Natural Language Processing.
     <p><a href="https://arxiv.org/abs/2607.26465">[Paper]</a></p>
   </div>
 
+  </details>
 </div>
 
 <span class='anchor' id='awards'></span>

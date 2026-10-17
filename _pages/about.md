@@ -65,6 +65,38 @@ I’m mainly interested in the research of Natural Language Processing.
 # 📝 Publications
 
 <div id="google-scholar-publications">
+  <h2>First-Author Publications</h2>
+
+  <div class="google-scholar-publication">
+    <strong>SkillHorizon: Constructing Long-Horizon Agent Tasks through Skill Composition</strong>
+    <p><strong><u>Yuxuan Liu</u></strong>, Zhaochen Su, Hangyu Guo, Shijue Huang, Zhixiong Zhang, Kawai Chung, Zhongwei Xie, Tianshi Zheng, Wei Fan, Qing Zong, Haochen Shi, Baixuan Xu, Haoran Li, Yangqiu Song</p>
+    <p><em>arXiv preprint, 2026</em></p>
+    <p><a href="https://arxiv.org/abs/2610.14966">[Paper]</a> <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=6IXZ2uMAAAAJ&amp;citation_for_view=6IXZ2uMAAAAJ:ufrVoPGSRksC">[Google Scholar]</a></p>
+  </div>
+
+  <div class="google-scholar-publication">
+    <strong>SkillScriptBench: Benchmarking Self-Evolution of Executable Agent Skill Packages Beyond Markdown</strong>
+    <p><strong><u>Yuxuan Liu</u></strong>, Haoran Li, Yuhao Zhang, Jiahe Guo, Hongyu Luo, Wenbin Hu, Huihao Jing, Kawai Chung, Junle Chen, Changxuan Fan, Qing Zong, Lingyun Xie, Yangqiu Song</p>
+    <p><em>arXiv preprint, 2026</em></p>
+    <p><a href="https://arxiv.org/abs/2610.04008">[Paper]</a> <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=6IXZ2uMAAAAJ&amp;citation_for_view=6IXZ2uMAAAAJ:W7OEmFMy1HYC">[Google Scholar]</a></p>
+  </div>
+
+  <div class="google-scholar-publication">
+    <strong>Rethinking Self-Evolving Agent Skills: Feedback Dynamics over Multiple Rounds</strong>
+    <p><strong><u>Yuxuan Liu</u></strong>, Zhaochen Su, Yuhao Zhang, Jiahe Guo, Zhongwei Xie, Huihao Jing, Lingyun Xie, Qing Zong, Yauwai Yim, Zhixiong Zhang, Haoran Li, Yangqiu Song</p>
+    <p><em>arXiv preprint, 2026</em></p>
+    <p><a href="https://arxiv.org/abs/2608.02636">[Paper]</a> <a href="https://github.com/HKUST-KnowComp/rethinkskill">[Code]</a></p>
+  </div>
+
+  <div class="google-scholar-publication">
+    <strong>SkillRevise: Improving LLM-Authored Agent Skills via Trace-Conditioned Skill Revision</strong>
+    <p><strong><u>Yuxuan Liu</u></strong>, Zhaochen Su, Lingyun Xie, Yuhao Zhang, Qing Zong, Jiahe Guo, Zhongwei Xie, Yiyan Ji, Yauwai Yim, Hongyu Luo, Xiyu Ren, Chenyu Ruan, Haoran Li, Yangqiu Song</p>
+    <p><em>Findings of EMNLP, 2026</em></p>
+    <p><a href="https://arxiv.org/abs/2606.01139">[Paper]</a> <a href="https://github.com/xuansenpa1/skillrevise">[Code]</a></p>
+  </div>
+
+  <h2>Non-First-Author Publications</h2>
+
   <div class="google-scholar-publication">
     <strong>JockeyBench: Evaluating LLM Agents on Horse-Racing Decision-Making</strong>
     <p>Zhongwei Xie, Xingsu Li, Jingqiao Yu, Zihao Wang, Hong ChiTat, Zhaowei Wang, Weizhi Du, <strong><u>Yuxuan Liu</u></strong>, Huihao Jing, Jiaxin Bai, Yangqiu Song</p>
@@ -101,24 +133,10 @@ I’m mainly interested in the research of Natural Language Processing.
   </div>
 
   <div class="google-scholar-publication">
-    <strong>SkillHorizon: Constructing Long-Horizon Agent Tasks through Skill Composition</strong>
-    <p><strong><u>Yuxuan Liu</u></strong>, Zhaochen Su, Hangyu Guo, Shijue Huang, Zhixiong Zhang, Kawai Chung, Zhongwei Xie, Tianshi Zheng, Wei Fan, Qing Zong, Haochen Shi, Baixuan Xu, Haoran Li, Yangqiu Song</p>
-    <p><em>arXiv preprint, 2026</em></p>
-    <p><a href="https://arxiv.org/abs/2610.14966">[Paper]</a> <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=6IXZ2uMAAAAJ&amp;citation_for_view=6IXZ2uMAAAAJ:ufrVoPGSRksC">[Google Scholar]</a></p>
-  </div>
-
-  <div class="google-scholar-publication">
     <strong>You Changed Your Mind, The Model Didn't: Demystifying Intent in Multi-Turn Dialogue</strong>
     <p>Junle Chen, Wei Chen, Zhengjun Huang, Zhoujin Tian, <strong><u>Yuxuan Liu</u></strong>, Kai Wang, Rui Chen, Xiaofang Zhou</p>
     <p><em>arXiv preprint, 2026</em></p>
     <p><a href="https://arxiv.org/abs/2610.06496">[Paper]</a> <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=6IXZ2uMAAAAJ&amp;citation_for_view=6IXZ2uMAAAAJ:Se3iqnhoufwC">[Google Scholar]</a></p>
-  </div>
-
-  <div class="google-scholar-publication">
-    <strong>SkillScriptBench: Benchmarking Self-Evolution of Executable Agent Skill Packages Beyond Markdown</strong>
-    <p><strong><u>Yuxuan Liu</u></strong>, Haoran Li, Yuhao Zhang, Jiahe Guo, Hongyu Luo, Wenbin Hu, Huihao Jing, Kawai Chung, Junle Chen, Changxuan Fan, Qing Zong, Lingyun Xie, Yangqiu Song</p>
-    <p><em>arXiv preprint, 2026</em></p>
-    <p><a href="https://arxiv.org/abs/2610.04008">[Paper]</a> <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=6IXZ2uMAAAAJ&amp;citation_for_view=6IXZ2uMAAAAJ:W7OEmFMy1HYC">[Google Scholar]</a></p>
   </div>
 
   <div class="google-scholar-publication">
@@ -150,13 +168,6 @@ I’m mainly interested in the research of Natural Language Processing.
   </div>
 
   <div class="google-scholar-publication">
-    <strong>Rethinking Self-Evolving Agent Skills: Feedback Dynamics over Multiple Rounds</strong>
-    <p><strong><u>Yuxuan Liu</u></strong>, Zhaochen Su, Yuhao Zhang, Jiahe Guo, Zhongwei Xie, Huihao Jing, Lingyun Xie, Qing Zong, Yauwai Yim, Zhixiong Zhang, Haoran Li, Yangqiu Song</p>
-    <p><em>arXiv preprint, 2026</em></p>
-    <p><a href="https://arxiv.org/abs/2608.02636">[Paper]</a> <a href="https://github.com/HKUST-KnowComp/rethinkskill">[Code]</a></p>
-  </div>
-
-  <div class="google-scholar-publication">
     <strong>RLPF: Reinforcement Learning from Performance Feedback for Code Generation</strong>
     <p>Huihao Jing, Haozhe Cui, Wenbin Hu, Shaojin Chen, Haochen Shi, Changxuan Fan, <strong><u>Yuxuan Liu</u></strong>, Hanyu Yang, Sirui Zhang, Ziyi Chen, Haoran Li, Yangqiu Song</p>
     <p><em>arXiv preprint, 2026</em></p>
@@ -170,12 +181,6 @@ I’m mainly interested in the research of Natural Language Processing.
     <p><a href="https://arxiv.org/abs/2607.26465">[Paper]</a> <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=6IXZ2uMAAAAJ&amp;citation_for_view=6IXZ2uMAAAAJ:9yKSN-GCB0IC">[Google Scholar]</a></p>
   </div>
 
-  <div class="google-scholar-publication">
-    <strong>SkillRevise: Improving LLM-Authored Agent Skills via Trace-Conditioned Skill Revision</strong>
-    <p><strong><u>Yuxuan Liu</u></strong>, Zhaochen Su, Lingyun Xie, Yuhao Zhang, Qing Zong, Jiahe Guo, Zhongwei Xie, Yiyan Ji, Yauwai Yim, Hongyu Luo, Xiyu Ren, Chenyu Ruan, Haoran Li, Yangqiu Song</p>
-    <p><em>Findings of EMNLP, 2026</em></p>
-    <p><a href="https://arxiv.org/abs/2606.01139">[Paper]</a> <a href="https://github.com/xuansenpa1/skillrevise">[Code]</a></p>
-  </div>
 </div>
 
 <span class='anchor' id='awards'></span>

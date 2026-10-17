@@ -43,6 +43,16 @@ I’m mainly interested in the research of Natural Language Processing.
 
 # 🔥 News
 
+- **Oct 2026:** Our paper **JockeyBench: Evaluating LLM Agents on Horse-Racing Decision-Making** is available on arXiv. [[Paper](https://arxiv.org/abs/2610.19589)]
+- **Oct 2026:** Our paper **Jev-ToM: Evaluating Theory of Mind in Typed Decision Models** is available on arXiv. [[Paper](https://arxiv.org/abs/2610.18610)]
+- **Oct 2026:** Our paper **Jev-Guard: Fast Routing and Auditing Agent Actions over Editable Policy Trees** is available on arXiv. [[Paper](https://arxiv.org/abs/2610.18326)]
+- **Oct 2026:** Our paper **RadixFlow: Filling Execution Bubbles in Prefix-Cached Hybrid LLM Serving** is available on arXiv. [[Paper](https://arxiv.org/abs/2610.18143)]
+- **Oct 2026:** Our paper **Same Operation, Different Permission: Evaluating Whether Guardrails Honor Authorization** is available on arXiv. [[Paper](https://arxiv.org/abs/2610.16838)]
+- **Oct 2026:** Our paper **SkillHorizon: Constructing Long-Horizon Agent Tasks through Skill Composition** is available on arXiv. [[Paper](https://arxiv.org/abs/2610.14966)]
+- **Oct 2026:** Our paper **You Changed Your Mind, The Model Didn't: Demystifying Intent in Multi-Turn Dialogue** is available on arXiv. [[Paper](https://arxiv.org/abs/2610.06496)]
+- **Oct 2026:** Our paper **SkillScriptBench: Benchmarking Self-Evolution of Executable Agent Skill Packages Beyond Markdown** is available on arXiv. [[Paper](https://arxiv.org/abs/2610.04008)]
+- **Sep 2026:** Our paper **CorrGRPO: Correlation-Normalized GRPO for Multi-Reward Learning** is available on arXiv. [[Paper](https://arxiv.org/abs/2609.36820)]
+- **Sep 2026:** Our paper **SoFT: Soft Targets for Generalizable LLM Fine-Tuning** is available on arXiv. [[Paper](https://arxiv.org/abs/2609.32493)]
 - **Aug 2026:** Our paper **SkillRevise: Improving LLM-Authored Agent Skills via Trace-Conditioned Skill Revision** has been accepted to **Findings of EMNLP 2026**. [[Paper](https://arxiv.org/abs/2606.01139)] [[Code](https://github.com/xuansenpa1/skillrevise)]
 - **Aug 2026:** Our paper **MultivationBench: A Benchmark for Multimodal Sequential Motivation Reasoning** has been accepted to **Findings of EMNLP 2026**. [[Paper](https://arxiv.org/abs/2607.26465)]
 - **Aug 2026:** Our paper **Co-Evolution in Agentic Systems: Toward Self-Directed Evolution Beyond Human Design** is available on arXiv. [[Paper](https://arxiv.org/abs/2608.10299)]
@@ -55,6 +65,76 @@ I’m mainly interested in the research of Natural Language Processing.
 # 📝 Publications
 
 <div id="google-scholar-publications">
+  <div class="google-scholar-publication">
+    <strong>JockeyBench: Evaluating LLM Agents on Horse-Racing Decision-Making</strong>
+    <p>Zhongwei Xie, Xingsu Li, Jingqiao Yu, Zihao Wang, Hong ChiTat, Zhaowei Wang, Weizhi Du, <strong><u>Yuxuan Liu</u></strong>, Huihao Jing, Jiaxin Bai, Yangqiu Song</p>
+    <p><em>arXiv preprint, 2026</em></p>
+    <p><a href="https://arxiv.org/abs/2610.19589">[Paper]</a> <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=6IXZ2uMAAAAJ&amp;citation_for_view=6IXZ2uMAAAAJ:_FxGoFyzp5QC">[Google Scholar]</a></p>
+  </div>
+
+  <div class="google-scholar-publication">
+    <strong>Jev-ToM: Evaluating Theory of Mind in Typed Decision Models</strong>
+    <p>Kawai Chung, Chunkit Chan, <strong><u>Yuxuan Liu</u></strong>, Yauwai Yim, Xi Yang, Wenbin Hu, Huihao Jing, Chiu Yeung Tang, Changxuan Fan, Ki Sen Hung, Tsun On Kwok, Haoran Li</p>
+    <p><em>arXiv preprint, 2026</em></p>
+    <p><a href="https://arxiv.org/abs/2610.18610">[Paper]</a> <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=6IXZ2uMAAAAJ&amp;citation_for_view=6IXZ2uMAAAAJ:hqOjcs7Dif8C">[Google Scholar]</a></p>
+  </div>
+
+  <div class="google-scholar-publication">
+    <strong>Jev-Guard: Fast Routing and Auditing Agent Actions over Editable Policy Trees</strong>
+    <p>Wenbin Hu, Huihao Jing, Haochen Shi, <strong><u>Yuxuan Liu</u></strong>, Changxuan Fan, Sirui Zhang, Kawai Chung, Hanyu Yang, Zhenhuan Wang, Ziyi Chen, Haoran Li, Yangqiu Song</p>
+    <p><em>arXiv preprint, 2026</em></p>
+    <p><a href="https://arxiv.org/abs/2610.18326">[Paper]</a> <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=6IXZ2uMAAAAJ&amp;citation_for_view=6IXZ2uMAAAAJ:UebtZRa9Y70C">[Google Scholar]</a></p>
+  </div>
+
+  <div class="google-scholar-publication">
+    <strong>RadixFlow: Filling Execution Bubbles in Prefix-Cached Hybrid LLM Serving</strong>
+    <p>Huihao Jing, Wenbin Hu, Shaojin Chen, Haochen Shi, Haoyu Huang, Sirui Zhang, <strong><u>Yuxuan Liu</u></strong>, Zhongwei Xie, Haoran Li</p>
+    <p><em>arXiv preprint, 2026</em></p>
+    <p><a href="https://arxiv.org/abs/2610.18143">[Paper]</a> <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=6IXZ2uMAAAAJ&amp;citation_for_view=6IXZ2uMAAAAJ:LkGwnXOMwfcC">[Google Scholar]</a></p>
+  </div>
+
+  <div class="google-scholar-publication">
+    <strong>Same Operation, Different Permission: Evaluating Whether Guardrails Honor Authorization</strong>
+    <p>Huihao Jing, Shaojin Chen, Wenbin Hu, <strong><u>Yuxuan Liu</u></strong>, Haochen Shi, Zhongwei Xie, Haoran Li, Yangqiu Song</p>
+    <p><em>arXiv preprint, 2026</em></p>
+    <p><a href="https://arxiv.org/abs/2610.16838">[Paper]</a> <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=6IXZ2uMAAAAJ&amp;citation_for_view=6IXZ2uMAAAAJ:roLk4NBRz8UC">[Google Scholar]</a></p>
+  </div>
+
+  <div class="google-scholar-publication">
+    <strong>SkillHorizon: Constructing Long-Horizon Agent Tasks through Skill Composition</strong>
+    <p><strong><u>Yuxuan Liu</u></strong>, Zhaochen Su, Hangyu Guo, Shijue Huang, Zhixiong Zhang, Kawai Chung, Zhongwei Xie, Tianshi Zheng, Wei Fan, Qing Zong, Haochen Shi, Baixuan Xu, Haoran Li, Yangqiu Song</p>
+    <p><em>arXiv preprint, 2026</em></p>
+    <p><a href="https://arxiv.org/abs/2610.14966">[Paper]</a> <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=6IXZ2uMAAAAJ&amp;citation_for_view=6IXZ2uMAAAAJ:ufrVoPGSRksC">[Google Scholar]</a></p>
+  </div>
+
+  <div class="google-scholar-publication">
+    <strong>You Changed Your Mind, The Model Didn't: Demystifying Intent in Multi-Turn Dialogue</strong>
+    <p>Junle Chen, Wei Chen, Zhengjun Huang, Zhoujin Tian, <strong><u>Yuxuan Liu</u></strong>, Kai Wang, Rui Chen, Xiaofang Zhou</p>
+    <p><em>arXiv preprint, 2026</em></p>
+    <p><a href="https://arxiv.org/abs/2610.06496">[Paper]</a> <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=6IXZ2uMAAAAJ&amp;citation_for_view=6IXZ2uMAAAAJ:Se3iqnhoufwC">[Google Scholar]</a></p>
+  </div>
+
+  <div class="google-scholar-publication">
+    <strong>SkillScriptBench: Benchmarking Self-Evolution of Executable Agent Skill Packages Beyond Markdown</strong>
+    <p><strong><u>Yuxuan Liu</u></strong>, Haoran Li, Yuhao Zhang, Jiahe Guo, Hongyu Luo, Wenbin Hu, Huihao Jing, Kawai Chung, Junle Chen, Changxuan Fan, Qing Zong, Lingyun Xie, Yangqiu Song</p>
+    <p><em>arXiv preprint, 2026</em></p>
+    <p><a href="https://arxiv.org/abs/2610.04008">[Paper]</a> <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=6IXZ2uMAAAAJ&amp;citation_for_view=6IXZ2uMAAAAJ:W7OEmFMy1HYC">[Google Scholar]</a></p>
+  </div>
+
+  <div class="google-scholar-publication">
+    <strong>CorrGRPO: Correlation-Normalized GRPO for Multi-Reward Learning</strong>
+    <p>Wenbin Hu, Huihao Jing, Haochen Shi, <strong><u>Yuxuan Liu</u></strong>, Haoran Li, Yangqiu Song</p>
+    <p><em>arXiv preprint, 2026</em></p>
+    <p><a href="https://arxiv.org/abs/2609.36820">[Paper]</a> <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=6IXZ2uMAAAAJ&amp;citation_for_view=6IXZ2uMAAAAJ:Tyk-4Ss8FVUC">[Google Scholar]</a></p>
+  </div>
+
+  <div class="google-scholar-publication">
+    <strong>SoFT: Soft Targets for Generalizable LLM Fine-Tuning</strong>
+    <p>Huihao Jing, Wenbin Hu, Shaojin Chen, Haochen Shi, Zhongwei Xie, Guijia Zhang, <strong><u>Yuxuan Liu</u></strong>, Haoyu Huang, Haoran Li, Yangqiu Song</p>
+    <p><em>arXiv preprint, 2026</em></p>
+    <p><a href="https://arxiv.org/abs/2609.32493">[Paper]</a> <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=6IXZ2uMAAAAJ&amp;citation_for_view=6IXZ2uMAAAAJ:Y0pCki6q_DkC">[Google Scholar]</a></p>
+  </div>
+
   <div class="google-scholar-publication">
     <strong>Co-Evolution in Agentic Systems: Toward Self-Directed Evolution Beyond Human Design</strong>
     <p>Qing Zong, Jiayu Liu, Junhao Shen, Zecong Tang, Linsi Wu, <strong><u>Yuxuan Liu</u></strong>, Rui Wang, Zhaowei Wang, Weiqi Wang, Cheng Qian, Xiusi Chen, Yangqiu Song</p>

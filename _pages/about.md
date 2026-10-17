@@ -71,14 +71,14 @@ I’m mainly interested in the research of Natural Language Processing.
     <strong>SkillHorizon: Constructing Long-Horizon Agent Tasks through Skill Composition</strong>
     <p><strong><u>Yuxuan Liu</u></strong>, Zhaochen Su, Hangyu Guo, Shijue Huang, Zhixiong Zhang, Kawai Chung, Zhongwei Xie, Tianshi Zheng, Wei Fan, Qing Zong, Haochen Shi, Baixuan Xu, Haoran Li, Yangqiu Song</p>
     <p><em>arXiv preprint, 2026</em></p>
-    <p><a href="https://arxiv.org/abs/2610.14966">[Paper]</a> <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=6IXZ2uMAAAAJ&amp;citation_for_view=6IXZ2uMAAAAJ:ufrVoPGSRksC">[Google Scholar]</a></p>
+    <p><a href="https://arxiv.org/abs/2610.14966">[Paper]</a></p>
   </div>
 
   <div class="google-scholar-publication">
     <strong>SkillScriptBench: Benchmarking Self-Evolution of Executable Agent Skill Packages Beyond Markdown</strong>
     <p><strong><u>Yuxuan Liu</u></strong>, Haoran Li, Yuhao Zhang, Jiahe Guo, Hongyu Luo, Wenbin Hu, Huihao Jing, Kawai Chung, Junle Chen, Changxuan Fan, Qing Zong, Lingyun Xie, Yangqiu Song</p>
     <p><em>arXiv preprint, 2026</em></p>
-    <p><a href="https://arxiv.org/abs/2610.04008">[Paper]</a> <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=6IXZ2uMAAAAJ&amp;citation_for_view=6IXZ2uMAAAAJ:W7OEmFMy1HYC">[Google Scholar]</a></p>
+    <p><a href="https://arxiv.org/abs/2610.04008">[Paper]</a> <a href="https://github.com/HKUST-KnowComp/SkillScriptBench">[Code]</a></p>
   </div>
 
   <div class="google-scholar-publication">
@@ -101,84 +101,84 @@ I’m mainly interested in the research of Natural Language Processing.
     <strong>JockeyBench: Evaluating LLM Agents on Horse-Racing Decision-Making</strong>
     <p>Zhongwei Xie, Xingsu Li, Jingqiao Yu, Zihao Wang, Hong ChiTat, Zhaowei Wang, Weizhi Du, <strong><u>Yuxuan Liu</u></strong>, Huihao Jing, Jiaxin Bai, Yangqiu Song</p>
     <p><em>arXiv preprint, 2026</em></p>
-    <p><a href="https://arxiv.org/abs/2610.19589">[Paper]</a> <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=6IXZ2uMAAAAJ&amp;citation_for_view=6IXZ2uMAAAAJ:_FxGoFyzp5QC">[Google Scholar]</a></p>
+    <p><a href="https://arxiv.org/abs/2610.19589">[Paper]</a></p>
   </div>
 
   <div class="google-scholar-publication">
     <strong>Jev-ToM: Evaluating Theory of Mind in Typed Decision Models</strong>
     <p>Kawai Chung, Chunkit Chan, <strong><u>Yuxuan Liu</u></strong>, Yauwai Yim, Xi Yang, Wenbin Hu, Huihao Jing, Chiu Yeung Tang, Changxuan Fan, Ki Sen Hung, Tsun On Kwok, Haoran Li</p>
     <p><em>arXiv preprint, 2026</em></p>
-    <p><a href="https://arxiv.org/abs/2610.18610">[Paper]</a> <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=6IXZ2uMAAAAJ&amp;citation_for_view=6IXZ2uMAAAAJ:hqOjcs7Dif8C">[Google Scholar]</a></p>
+    <p><a href="https://arxiv.org/abs/2610.18610">[Paper]</a></p>
   </div>
 
   <div class="google-scholar-publication">
     <strong>Jev-Guard: Fast Routing and Auditing Agent Actions over Editable Policy Trees</strong>
     <p>Wenbin Hu, Huihao Jing, Haochen Shi, <strong><u>Yuxuan Liu</u></strong>, Changxuan Fan, Sirui Zhang, Kawai Chung, Hanyu Yang, Zhenhuan Wang, Ziyi Chen, Haoran Li, Yangqiu Song</p>
     <p><em>arXiv preprint, 2026</em></p>
-    <p><a href="https://arxiv.org/abs/2610.18326">[Paper]</a> <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=6IXZ2uMAAAAJ&amp;citation_for_view=6IXZ2uMAAAAJ:UebtZRa9Y70C">[Google Scholar]</a></p>
+    <p><a href="https://arxiv.org/abs/2610.18326">[Paper]</a></p>
   </div>
 
   <div class="google-scholar-publication">
     <strong>RadixFlow: Filling Execution Bubbles in Prefix-Cached Hybrid LLM Serving</strong>
     <p>Huihao Jing, Wenbin Hu, Shaojin Chen, Haochen Shi, Haoyu Huang, Sirui Zhang, <strong><u>Yuxuan Liu</u></strong>, Zhongwei Xie, Haoran Li</p>
     <p><em>arXiv preprint, 2026</em></p>
-    <p><a href="https://arxiv.org/abs/2610.18143">[Paper]</a> <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=6IXZ2uMAAAAJ&amp;citation_for_view=6IXZ2uMAAAAJ:LkGwnXOMwfcC">[Google Scholar]</a></p>
+    <p><a href="https://arxiv.org/abs/2610.18143">[Paper]</a></p>
   </div>
 
   <div class="google-scholar-publication">
     <strong>Same Operation, Different Permission: Evaluating Whether Guardrails Honor Authorization</strong>
     <p>Huihao Jing, Shaojin Chen, Wenbin Hu, <strong><u>Yuxuan Liu</u></strong>, Haochen Shi, Zhongwei Xie, Haoran Li, Yangqiu Song</p>
     <p><em>arXiv preprint, 2026</em></p>
-    <p><a href="https://arxiv.org/abs/2610.16838">[Paper]</a> <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=6IXZ2uMAAAAJ&amp;citation_for_view=6IXZ2uMAAAAJ:roLk4NBRz8UC">[Google Scholar]</a></p>
+    <p><a href="https://arxiv.org/abs/2610.16838">[Paper]</a></p>
   </div>
 
   <div class="google-scholar-publication">
     <strong>You Changed Your Mind, The Model Didn't: Demystifying Intent in Multi-Turn Dialogue</strong>
     <p>Junle Chen, Wei Chen, Zhengjun Huang, Zhoujin Tian, <strong><u>Yuxuan Liu</u></strong>, Kai Wang, Rui Chen, Xiaofang Zhou</p>
     <p><em>arXiv preprint, 2026</em></p>
-    <p><a href="https://arxiv.org/abs/2610.06496">[Paper]</a> <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=6IXZ2uMAAAAJ&amp;citation_for_view=6IXZ2uMAAAAJ:Se3iqnhoufwC">[Google Scholar]</a></p>
+    <p><a href="https://arxiv.org/abs/2610.06496">[Paper]</a></p>
   </div>
 
   <div class="google-scholar-publication">
     <strong>CorrGRPO: Correlation-Normalized GRPO for Multi-Reward Learning</strong>
     <p>Wenbin Hu, Huihao Jing, Haochen Shi, <strong><u>Yuxuan Liu</u></strong>, Haoran Li, Yangqiu Song</p>
     <p><em>arXiv preprint, 2026</em></p>
-    <p><a href="https://arxiv.org/abs/2609.36820">[Paper]</a> <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=6IXZ2uMAAAAJ&amp;citation_for_view=6IXZ2uMAAAAJ:Tyk-4Ss8FVUC">[Google Scholar]</a></p>
+    <p><a href="https://arxiv.org/abs/2609.36820">[Paper]</a></p>
   </div>
 
   <div class="google-scholar-publication">
     <strong>SoFT: Soft Targets for Generalizable LLM Fine-Tuning</strong>
     <p>Huihao Jing, Wenbin Hu, Shaojin Chen, Haochen Shi, Zhongwei Xie, Guijia Zhang, <strong><u>Yuxuan Liu</u></strong>, Haoyu Huang, Haoran Li, Yangqiu Song</p>
     <p><em>arXiv preprint, 2026</em></p>
-    <p><a href="https://arxiv.org/abs/2609.32493">[Paper]</a> <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=6IXZ2uMAAAAJ&amp;citation_for_view=6IXZ2uMAAAAJ:Y0pCki6q_DkC">[Google Scholar]</a></p>
+    <p><a href="https://arxiv.org/abs/2609.32493">[Paper]</a></p>
   </div>
 
   <div class="google-scholar-publication">
     <strong>Co-Evolution in Agentic Systems: Toward Self-Directed Evolution Beyond Human Design</strong>
     <p>Qing Zong, Jiayu Liu, Junhao Shen, Zecong Tang, Linsi Wu, <strong><u>Yuxuan Liu</u></strong>, Rui Wang, Zhaowei Wang, Weiqi Wang, Cheng Qian, Xiusi Chen, Yangqiu Song</p>
     <p><em>arXiv preprint, 2026</em></p>
-    <p><a href="https://arxiv.org/abs/2608.10299">[Paper]</a> <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=6IXZ2uMAAAAJ&amp;citation_for_view=6IXZ2uMAAAAJ:qjMakFHDy7sC">[Google Scholar]</a></p>
+    <p><a href="https://arxiv.org/abs/2608.10299">[Paper]</a></p>
   </div>
 
   <div class="google-scholar-publication">
     <strong>Can Language Models Imagine Without Seeing? Ekphrasis: Measuring Visual Creative Ideation in Text-Only LLMs</strong>
     <p>Hongyu Luo, He Wang, Huihao Jing, Hong Ting Tsang, <strong><u>Yuxuan Liu</u></strong>, Wuganjing Song, Yauwai Yim, Chunyang Li, Yangqiu Song</p>
     <p><em>arXiv preprint, 2026</em></p>
-    <p><a href="https://arxiv.org/abs/2608.06967">[Paper]</a> <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=6IXZ2uMAAAAJ&amp;citation_for_view=6IXZ2uMAAAAJ:UeHWp8X0CEIC">[Google Scholar]</a></p>
+    <p><a href="https://arxiv.org/abs/2608.06967">[Paper]</a></p>
   </div>
 
   <div class="google-scholar-publication">
     <strong>RLPF: Reinforcement Learning from Performance Feedback for Code Generation</strong>
     <p>Huihao Jing, Haozhe Cui, Wenbin Hu, Shaojin Chen, Haochen Shi, Changxuan Fan, <strong><u>Yuxuan Liu</u></strong>, Hanyu Yang, Sirui Zhang, Ziyi Chen, Haoran Li, Yangqiu Song</p>
     <p><em>arXiv preprint, 2026</em></p>
-    <p><a href="https://arxiv.org/abs/2607.27271">[Paper]</a> <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=6IXZ2uMAAAAJ&amp;citation_for_view=6IXZ2uMAAAAJ:IjCSPb-OGe4C">[Google Scholar]</a></p>
+    <p><a href="https://arxiv.org/abs/2607.27271">[Paper]</a></p>
   </div>
 
   <div class="google-scholar-publication">
     <strong>MultivationBench: A Benchmark for Multimodal Sequential Motivation Reasoning</strong>
     <p>Kawai Chung, Chunkit Chan, Yauwai Yim, <strong><u>Yuxuan Liu</u></strong>, Haochen Shi, Weiqi Wang, Qing Zong, Tianshi Zheng, Yixuan Fu, Kai Chung Wong, Hao Liang, Yifan Gao, Xi Yang, Janet Hui-wen Hsiao, Yangqiu Song</p>
     <p><em>Findings of EMNLP, 2026</em></p>
-    <p><a href="https://arxiv.org/abs/2607.26465">[Paper]</a> <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=6IXZ2uMAAAAJ&amp;citation_for_view=6IXZ2uMAAAAJ:9yKSN-GCB0IC">[Google Scholar]</a></p>
+    <p><a href="https://arxiv.org/abs/2607.26465">[Paper]</a></p>
   </div>
 
 </div>
